@@ -1,3 +1,3 @@
-# springjdbc
+# Spring JDBC
 
-Spring JDBC,MySQL
+Spring JDBC and MySQL
